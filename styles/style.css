@@ -31,7 +31,13 @@ h2{
     
     
 }
+
+img{
+    
+    
+}
 .box{
     position: absolute;
-    top:10px
+    top:10px;
+    width:120px;
 }
